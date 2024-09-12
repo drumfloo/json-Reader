@@ -1,0 +1,2676 @@
+[
+    {
+        "Ressource": "2301",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 122301,
+        "Suchbegriff": "",
+        "Bezeichnung": ""
+    },
+    {
+        "Ressource": "2301",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 122301,
+        "Suchbegriff": "2301",
+        "Bezeichnung": ""
+    },
+    {
+        "Ressource": "0000",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 160930,
+        "Suchbegriff": "0000",
+        "Bezeichnung": "Hydraulikpressen (8 St�ck)"
+    },
+    {
+        "Ressource": "001001",
+        "RessGruppe": "F-SAE1",
+        "Kostenstelle": 12001001,
+        "Suchbegriff": "001001",
+        "Bezeichnung": "Pero Waschmaschine"
+    },
+    {
+        "Ressource": "001002",
+        "RessGruppe": "F-ALLG",
+        "Kostenstelle": 12001002,
+        "Suchbegriff": "001002",
+        "Bezeichnung": "SBM01 St�nderbohrmaschine"
+    },
+    {
+        "Ressource": "0020",
+        "RessGruppe": "LAG",
+        "Kostenstelle": 190210,
+        "Suchbegriff": "0020",
+        "Bezeichnung": "Lager / Kommissionierung"
+    },
+    {
+        "Ressource": "002001",
+        "RessGruppe": "F-ALLG",
+        "Kostenstelle": 12002001,
+        "Suchbegriff": "002001",
+        "Bezeichnung": "Raise 3D Pro2 \"Betty\""
+    },
+    {
+        "Ressource": "0021",
+        "RessGruppe": "LAG",
+        "Kostenstelle": 190210,
+        "Suchbegriff": "0021",
+        "Bezeichnung": "Lager / Bestandsbuchungen"
+    },
+    {
+        "Ressource": "0050",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110050,
+        "Suchbegriff": "0050",
+        "Bezeichnung": "Lasermaschine \"EG\""
+    },
+    {
+        "Ressource": "0051",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110051,
+        "Suchbegriff": "0051",
+        "Bezeichnung": "Lasermaschine \"OG\" Trumpf TruMark 5020"
+    },
+    {
+        "Ressource": "0055",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110055,
+        "Suchbegriff": "0055",
+        "Bezeichnung": "Plasmaanlage (Reinigen, Aktivieren)"
+    },
+    {
+        "Ressource": "0060",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110060,
+        "Suchbegriff": "0060",
+        "Bezeichnung": "Waschmaschine MAFAC JAVA"
+    },
+    {
+        "Ressource": "0070",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110100,
+        "Suchbegriff": "0070",
+        "Bezeichnung": "Vormontage HHT"
+    },
+    {
+        "Ressource": "0071",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110100,
+        "Suchbegriff": "0071",
+        "Bezeichnung": "Vormontage HHT 5000er"
+    },
+    {
+        "Ressource": "0100",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110100,
+        "Suchbegriff": "0100",
+        "Bezeichnung": "Montage HHT"
+    },
+    {
+        "Ressource": "0101",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110100,
+        "Suchbegriff": "0101",
+        "Bezeichnung": "Montage HHT 5000er"
+    },
+    {
+        "Ressource": "010101",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110100,
+        "Suchbegriff": "010101",
+        "Bezeichnung": "Montage HHT 5003 - 5010"
+    },
+    {
+        "Ressource": "010102",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110100,
+        "Suchbegriff": "010102",
+        "Bezeichnung": "Montage HHT 5013 - 5045"
+    },
+    {
+        "Ressource": "0102",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110100,
+        "Suchbegriff": "0102",
+        "Bezeichnung": "Montage HHT"
+    },
+    {
+        "Ressource": "0103",
+        "RessGruppe": "MO-HHT",
+        "Kostenstelle": 110100,
+        "Suchbegriff": "0103",
+        "Bezeichnung": "Montage HHT GP/GK Obergeschoss"
+    },
+    {
+        "Ressource": "0105",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110110,
+        "Suchbegriff": "0105",
+        "Bezeichnung": "Montage HHT"
+    },
+    {
+        "Ressource": "0110",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110110,
+        "Suchbegriff": "0110",
+        "Bezeichnung": "Montage Elektro"
+    },
+    {
+        "Ressource": "0115",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110110,
+        "Suchbegriff": "0115",
+        "Bezeichnung": "Montage Elektro"
+    },
+    {
+        "Ressource": "0200",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110200,
+        "Suchbegriff": "0200",
+        "Bezeichnung": "Montage OEM FES"
+    },
+    {
+        "Ressource": "0250",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110250,
+        "Suchbegriff": "0250",
+        "Bezeichnung": "Montage PowerStop"
+    },
+    {
+        "Ressource": "0251",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110250,
+        "Suchbegriff": "0251",
+        "Bezeichnung": "Montage PowerStop 2.0 M4-M6"
+    },
+    {
+        "Ressource": "0252",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110250,
+        "Suchbegriff": "0252",
+        "Bezeichnung": "Montage PowerStop 2.0 M8-M16"
+    },
+    {
+        "Ressource": "0253",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110250,
+        "Suchbegriff": "0253",
+        "Bezeichnung": "Montage PowerStop 2.0 M20-M36"
+    },
+    {
+        "Ressource": "0260",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110260,
+        "Suchbegriff": "0260",
+        "Bezeichnung": "Montage OEM ORTO"
+    },
+    {
+        "Ressource": "0270",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110270,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# Montage Betriebsmittelbau"
+    },
+    {
+        "Ressource": "0280",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110280,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# Montage Trumpf"
+    },
+    {
+        "Ressource": "0284",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110285,
+        "Suchbegriff": "0284",
+        "Bezeichnung": "Montage Maschinentechnik Elektro"
+    },
+    {
+        "Ressource": "0285",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110285,
+        "Suchbegriff": "0285",
+        "Bezeichnung": "Montage Maschinentechnik"
+    },
+    {
+        "Ressource": "028501",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110285,
+        "Suchbegriff": "028501",
+        "Bezeichnung": "Montage Bearbeitungsroboter"
+    },
+    {
+        "Ressource": "028502",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110285,
+        "Suchbegriff": "028502",
+        "Bezeichnung": "Montage Shuttle & Bohrgetriebe"
+    },
+    {
+        "Ressource": "0286",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110286,
+        "Suchbegriff": "0286",
+        "Bezeichnung": "Montage OEM MT"
+    },
+    {
+        "Ressource": "0288",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110289,
+        "Suchbegriff": "0288",
+        "Bezeichnung": "Montage Spindel Elektro"
+    },
+    {
+        "Ressource": "0289",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 110289,
+        "Suchbegriff": "0289",
+        "Bezeichnung": "Montage Spindel"
+    },
+    {
+        "Ressource": "028901",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 11028901,
+        "Suchbegriff": "028901",
+        "Bezeichnung": "Spindelpr�fstand"
+    },
+    {
+        "Ressource": "0301",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 120301,
+        "Suchbegriff": "0301",
+        "Bezeichnung": "PRO Universalfr�smaschine"
+    },
+    {
+        "Ressource": "030101",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12030101,
+        "Suchbegriff": "030101",
+        "Bezeichnung": "PRO01 Hermle U630T"
+    },
+    {
+        "Ressource": "030102",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12030102,
+        "Suchbegriff": "030102",
+        "Bezeichnung": "PRO04 Deckel-Maho DMC 64V linear"
+    },
+    {
+        "Ressource": "030103",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12030103,
+        "Suchbegriff": "030103",
+        "Bezeichnung": "PRO05 Deckel-Maho DMC 635V ecoline"
+    },
+    {
+        "Ressource": "030104",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12030104,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# PRO07 Hermle U630T (jetzt BAZ12)"
+    },
+    {
+        "Ressource": "030105",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12030105,
+        "Suchbegriff": "030105",
+        "Bezeichnung": "PRO14 Deckel-Maho DMC 650V"
+    },
+    {
+        "Ressource": "030106",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12030106,
+        "Suchbegriff": "030106",
+        "Bezeichnung": "PRO15 Deckel-Maho DMC 600V"
+    },
+    {
+        "Ressource": "030107",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12030107,
+        "Suchbegriff": "030107",
+        "Bezeichnung": "PRO16 Hermle U630T"
+    },
+    {
+        "Ressource": "0302",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 120302,
+        "Suchbegriff": "0302",
+        "Bezeichnung": "PRO DMU 60 / DMU 75"
+    },
+    {
+        "Ressource": "030201",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12030201,
+        "Suchbegriff": "030201",
+        "Bezeichnung": "PRO08 Deckel-Maho DMU 60 monoBlock"
+    },
+    {
+        "Ressource": "030202",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12030202,
+        "Suchbegriff": "030202",
+        "Bezeichnung": "PRO03 Deckel-Maho DMU 75 monoBlock"
+    },
+    {
+        "Ressource": "030203",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12030203,
+        "Suchbegriff": "030203",
+        "Bezeichnung": "PRO17 Deckel-Maho DMU 75 monoBlock"
+    },
+    {
+        "Ressource": "0304",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 120304,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# NICHT VERWENDEN, ALTE RESSOURCE"
+    },
+    {
+        "Ressource": "0399",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 120399,
+        "Suchbegriff": "0399",
+        "Bezeichnung": "PRO Entgraten Musterbau"
+    },
+    {
+        "Ressource": "039901",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12039901,
+        "Suchbegriff": "039901",
+        "Bezeichnung": "PRO99 Entgraten Musterbau"
+    },
+    {
+        "Ressource": "0401",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 120401,
+        "Suchbegriff": "0401",
+        "Bezeichnung": "BRO Brother"
+    },
+    {
+        "Ressource": "040101",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12040101,
+        "Suchbegriff": "LT",
+        "Bezeichnung": "#ALT BRO01 Brother TC-324N"
+    },
+    {
+        "Ressource": "040102",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12040102,
+        "Suchbegriff": "040102",
+        "Bezeichnung": "BRO02 Brother TC-324"
+    },
+    {
+        "Ressource": "040103",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12040103,
+        "Suchbegriff": "040103",
+        "Bezeichnung": "BRO03 Brother RX-450X1 (T)"
+    },
+    {
+        "Ressource": "040104",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12040104,
+        "Suchbegriff": "040104",
+        "Bezeichnung": "BRO04 Brother RX-450X1"
+    },
+    {
+        "Ressource": "040105",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12040105,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT BRO05 Brother TC-324N"
+    },
+    {
+        "Ressource": "040107",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12040107,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT BRO07 Brother TC-31A"
+    },
+    {
+        "Ressource": "040108",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12040108,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT BRO08 Brother TC-31A"
+    },
+    {
+        "Ressource": "0402",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 120402,
+        "Suchbegriff": "0402",
+        "Bezeichnung": "BAZ Chiron FZ 18 W"
+    },
+    {
+        "Ressource": "040201",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12040201,
+        "Suchbegriff": "040201",
+        "Bezeichnung": "BAZ10 Chiron FZ 18 W"
+    },
+    {
+        "Ressource": "0403",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 120403,
+        "Suchbegriff": "0403",
+        "Bezeichnung": "BRO Brother TC-31AT"
+    },
+    {
+        "Ressource": "040309",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12040309,
+        "Suchbegriff": "040309",
+        "Bezeichnung": "BRO09 Brother TC-31AT"
+    },
+    {
+        "Ressource": "0404",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 120404,
+        "Suchbegriff": "0404",
+        "Bezeichnung": "BAZ Hermle U630T"
+    },
+    {
+        "Ressource": "040401",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12040401,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# BAZ11 Deckel-Maho MH 600 W (jetzt BMB04)"
+    },
+    {
+        "Ressource": "040402",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12040402,
+        "Suchbegriff": "040402",
+        "Bezeichnung": "BAZ12 Hermle U630T"
+    },
+    {
+        "Ressource": "0405",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 120405,
+        "Suchbegriff": "0405",
+        "Bezeichnung": "BRO Brother TC-324N"
+    },
+    {
+        "Ressource": "040501",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12040501,
+        "Suchbegriff": "040501",
+        "Bezeichnung": "#ALT# BRO01 Brother TC-324N"
+    },
+    {
+        "Ressource": "040505",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12040505,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# BRO05 Brother TC-324N #ALT#"
+    },
+    {
+        "Ressource": "0406",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 120406,
+        "Suchbegriff": "0406",
+        "Bezeichnung": "BRO Brother TC-31A (BRO07+BRO08)"
+    },
+    {
+        "Ressource": "040607",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12040607,
+        "Suchbegriff": "040607",
+        "Bezeichnung": "BRO07 Brother TC-31A"
+    },
+    {
+        "Ressource": "040608",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12040608,
+        "Suchbegriff": "040608",
+        "Bezeichnung": "BRO08 Brother TC-31A"
+    },
+    {
+        "Ressource": "0407",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 120407,
+        "Suchbegriff": "0407",
+        "Bezeichnung": "Brother RX-450X1"
+    },
+    {
+        "Ressource": "040701",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12040701,
+        "Suchbegriff": "040701",
+        "Bezeichnung": "BRO14 Brother RX-450X1"
+    },
+    {
+        "Ressource": "040702",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12040702,
+        "Suchbegriff": "040702",
+        "Bezeichnung": "BRO15 Brother RX-450X1"
+    },
+    {
+        "Ressource": "0420",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 120420,
+        "Suchbegriff": "0420",
+        "Bezeichnung": "BAZ H.Plus-405/DMC60H/DMC65H"
+    },
+    {
+        "Ressource": "042001",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12042001,
+        "Suchbegriff": "042001",
+        "Bezeichnung": "BAZ07 Deckel-Maho DMC 60 H (1)"
+    },
+    {
+        "Ressource": "042002",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12042002,
+        "Suchbegriff": "042002",
+        "Bezeichnung": "BAZ01 Matsuura H.Plus-405/PC-6 (1)"
+    },
+    {
+        "Ressource": "042003",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12042003,
+        "Suchbegriff": "042003",
+        "Bezeichnung": "BAZ02 Matsuura H.Plus-405N/PC-6 (2)"
+    },
+    {
+        "Ressource": "042004",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12042004,
+        "Suchbegriff": "042004",
+        "Bezeichnung": "BAZ08 Deckel-Maho DMC 65 H-RS7"
+    },
+    {
+        "Ressource": "0430",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 120430,
+        "Suchbegriff": "0430",
+        "Bezeichnung": "BRO Matsuura"
+    },
+    {
+        "Ressource": "043010",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12043010,
+        "Suchbegriff": "043010",
+        "Bezeichnung": "BRO10 Matsuura ES-450H II"
+    },
+    {
+        "Ressource": "043011",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12043011,
+        "Suchbegriff": "043011",
+        "Bezeichnung": "BRO11 Matsuura H.Plus-300/PC-6"
+    },
+    {
+        "Ressource": "043012",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12043012,
+        "Suchbegriff": "043012",
+        "Bezeichnung": "BRO12 Matsuura H.Plus-300/PC-6"
+    },
+    {
+        "Ressource": "043013",
+        "RessGruppe": "F-BRO",
+        "Kostenstelle": 12043013,
+        "Suchbegriff": "043013",
+        "Bezeichnung": "BRO13 Matsuura H.Plus-300/PC-6"
+    },
+    {
+        "Ressource": "0440",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 120440,
+        "Suchbegriff": "0440",
+        "Bezeichnung": "BAZ Matsuura MAM72"
+    },
+    {
+        "Ressource": "044001",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12044001,
+        "Suchbegriff": "044001",
+        "Bezeichnung": "BAZ03 Matsuura MAM72-3VS"
+    },
+    {
+        "Ressource": "044002",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12044002,
+        "Suchbegriff": "044002",
+        "Bezeichnung": "BAZ05 Matsuura MAM72-3VM"
+    },
+    {
+        "Ressource": "0441",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 120441,
+        "Suchbegriff": "0441",
+        "Bezeichnung": "BAZ Matsuura Cublex-35/PC-32"
+    },
+    {
+        "Ressource": "044101",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12044101,
+        "Suchbegriff": "044101",
+        "Bezeichnung": "BAZ06 Matsuura Cublex-35/PC-32"
+    },
+    {
+        "Ressource": "0442",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 120442,
+        "Suchbegriff": "0442",
+        "Bezeichnung": "BAZ DMC 60 U / DMC 60 H KGT"
+    },
+    {
+        "Ressource": "044201",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12044201,
+        "Suchbegriff": "044201",
+        "Bezeichnung": "BAZ09 Deckel-Maho DMC 60 U duoBLOCK"
+    },
+    {
+        "Ressource": "044202",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12044202,
+        "Suchbegriff": "044202",
+        "Bezeichnung": "BAZ04 Deckel-Maho DMC 60 H KGT"
+    },
+    {
+        "Ressource": "0450",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 120450,
+        "Suchbegriff": "0450",
+        "Bezeichnung": "Fastems 4 HHT (SAL)"
+    },
+    {
+        "Ressource": "045001",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12045001,
+        "Suchbegriff": "045001",
+        "Bezeichnung": "HHT04 Deckel-Maho DMC60FD"
+    },
+    {
+        "Ressource": "045002",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12045002,
+        "Suchbegriff": "045002",
+        "Bezeichnung": "HHT05 Deckel-Maho DMC60H-KGT-4"
+    },
+    {
+        "Ressource": "045003",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12045003,
+        "Suchbegriff": "045003",
+        "Bezeichnung": "HHT06 Deckel-Maho DMC60H-KGT-5"
+    },
+    {
+        "Ressource": "045004",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12045004,
+        "Suchbegriff": "045004",
+        "Bezeichnung": "HHT07 Deckel-Maho DMC60H-KGT-6"
+    },
+    {
+        "Ressource": "0460",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 120460,
+        "Suchbegriff": "0460",
+        "Bezeichnung": "Fastems 5 HHT (SAL)"
+    },
+    {
+        "Ressource": "046001",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12046001,
+        "Suchbegriff": "046001",
+        "Bezeichnung": "HHT08 Deckel-Maho DMC60H-KGT-7"
+    },
+    {
+        "Ressource": "046002",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12046002,
+        "Suchbegriff": "046002",
+        "Bezeichnung": "HHT09 Deckel-Maho DMC60H-KGT-8"
+    },
+    {
+        "Ressource": "046003",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12046003,
+        "Suchbegriff": "046003",
+        "Bezeichnung": "HHT10 Deckel-Maho DMC60H-KGT-9"
+    },
+    {
+        "Ressource": "0498",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 120498,
+        "Suchbegriff": "0498",
+        "Bezeichnung": "BAZ Entgraten"
+    },
+    {
+        "Ressource": "049801",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 12049801,
+        "Suchbegriff": "049801",
+        "Bezeichnung": "BAZ98 Entgraten"
+    },
+    {
+        "Ressource": "0499",
+        "RessGruppe": "F-BROE",
+        "Kostenstelle": 120499,
+        "Suchbegriff": "0499",
+        "Bezeichnung": "BRO Entgraten"
+    },
+    {
+        "Ressource": "049901",
+        "RessGruppe": "F-BROE",
+        "Kostenstelle": 12049901,
+        "Suchbegriff": "049901",
+        "Bezeichnung": "BRO99 Entgraten"
+    },
+    {
+        "Ressource": "0501",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120501,
+        "Suchbegriff": "0501",
+        "Bezeichnung": "DRE Drehen CNC"
+    },
+    {
+        "Ressource": "050101",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12050101,
+        "Suchbegriff": "050101",
+        "Bezeichnung": "DRE05 Mazak QT-8N"
+    },
+    {
+        "Ressource": "050102",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12050102,
+        "Suchbegriff": "050102",
+        "Bezeichnung": "DRE06 Mazak QT-8N+"
+    },
+    {
+        "Ressource": "050103",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12050103,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#DRE04 Mazak QT-100MS#ALT#"
+    },
+    {
+        "Ressource": "050104",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12050104,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#DRE02 Mazak SQT-10M"
+    },
+    {
+        "Ressource": "0510",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120501,
+        "Suchbegriff": "0510",
+        "Bezeichnung": "DRE Mazak QT-8SP Kolbenstangenmaschine"
+    },
+    {
+        "Ressource": "051001",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12051001,
+        "Suchbegriff": "051001",
+        "Bezeichnung": "DRE03 Mazak QT-8SP (Kolbenstangenmaschine)"
+    },
+    {
+        "Ressource": "0511",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120501,
+        "Suchbegriff": "0511",
+        "Bezeichnung": "DRE Mazak QT-18N"
+    },
+    {
+        "Ressource": "051101",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12051101,
+        "Suchbegriff": "051101",
+        "Bezeichnung": "DRE01 Mazak QT-18N"
+    },
+    {
+        "Ressource": "0512",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120512,
+        "Suchbegriff": "0512",
+        "Bezeichnung": "DRE02 Mazak SQT-10M"
+    },
+    {
+        "Ressource": "051204",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12051204,
+        "Suchbegriff": "051204",
+        "Bezeichnung": "DRE02 Mazak SQT-10M"
+    },
+    {
+        "Ressource": "0520",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120520,
+        "Suchbegriff": "0520",
+        "Bezeichnung": "DRE Mazak QT-Nexus-200MS"
+    },
+    {
+        "Ressource": "052001",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12052001,
+        "Suchbegriff": "052001",
+        "Bezeichnung": "DRE10 Mazak QT-Nexus-200MS"
+    },
+    {
+        "Ressource": "052002",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12052002,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#DRE13 Mazak QT-Nexus-100MS #ALT#"
+    },
+    {
+        "Ressource": "0521",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120521,
+        "Suchbegriff": "0521",
+        "Bezeichnung": "Mazak QT-100MS"
+    },
+    {
+        "Ressource": "052101",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12052101,
+        "Suchbegriff": "052101",
+        "Bezeichnung": "DRE04 Mazak QT-100MS"
+    },
+    {
+        "Ressource": "0525",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120525,
+        "Suchbegriff": "0525",
+        "Bezeichnung": "DRE Mazak QT-Nexus-100MS"
+    },
+    {
+        "Ressource": "052501",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12052501,
+        "Suchbegriff": "052501",
+        "Bezeichnung": "DRE13 Mazak QT-Nexus-100MS (�lmaschine)"
+    },
+    {
+        "Ressource": "0530",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120530,
+        "Suchbegriff": "0530",
+        "Bezeichnung": "DRE Mazak 200MSY"
+    },
+    {
+        "Ressource": "053001",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12053001,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#DRE09 Mazak SQT-200MSY"
+    },
+    {
+        "Ressource": "053002",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12053002,
+        "Suchbegriff": "053002",
+        "Bezeichnung": "DRE11 Mazak QT-Nexus-200MSY"
+    },
+    {
+        "Ressource": "053003",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12053003,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#DRE14 Mazak QT-Nexus-200MSY"
+    },
+    {
+        "Ressource": "053004",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12053004,
+        "Suchbegriff": "053004",
+        "Bezeichnung": "DRE15 Mazak QT-Nexus-200MSY"
+    },
+    {
+        "Ressource": "0531",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120531,
+        "Suchbegriff": "0531",
+        "Bezeichnung": "Mazak QT-Nexus-200MSY"
+    },
+    {
+        "Ressource": "053101",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12053101,
+        "Suchbegriff": "053101",
+        "Bezeichnung": "DRE09 Mazak SQT-200MSY"
+    },
+    {
+        "Ressource": "053103",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12053103,
+        "Suchbegriff": "053103",
+        "Bezeichnung": "DRE14 Mazak QT-Nexus-200MSY"
+    },
+    {
+        "Ressource": "0540",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120540,
+        "Suchbegriff": "0540",
+        "Bezeichnung": "DRE Traub TNL20/32"
+    },
+    {
+        "Ressource": "054001",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12054001,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# Gildemeister TWIN42 (D8) *verkauft*"
+    },
+    {
+        "Ressource": "054002",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12054002,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# DRE12 Gildemeister TWIN-42 *verkauft*"
+    },
+    {
+        "Ressource": "054003",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12054003,
+        "Suchbegriff": "054003",
+        "Bezeichnung": "DRE22 Traub TNL20"
+    },
+    {
+        "Ressource": "054004",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12054004,
+        "Suchbegriff": "054004",
+        "Bezeichnung": "DRE23 Traub TNL20-9"
+    },
+    {
+        "Ressource": "054005",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12054005,
+        "Suchbegriff": "054005",
+        "Bezeichnung": "DRE24 Traub TNL32-9"
+    },
+    {
+        "Ressource": "054006",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12054006,
+        "Suchbegriff": "054006",
+        "Bezeichnung": "DRE25 Traub TNL32-8"
+    },
+    {
+        "Ressource": "0541",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120541,
+        "Suchbegriff": "0541",
+        "Bezeichnung": "DRE Mazak Hyper-Quadrex-200MSY"
+    },
+    {
+        "Ressource": "054101",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12054101,
+        "Suchbegriff": "054101",
+        "Bezeichnung": "DRE18 Mazak Hyper-Quadrex-200MSY"
+    },
+    {
+        "Ressource": "0542",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120542,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# Unbenutzt"
+    },
+    {
+        "Ressource": "0550",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120550,
+        "Suchbegriff": "0550",
+        "Bezeichnung": "DRE Integrex"
+    },
+    {
+        "Ressource": "055001",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12055001,
+        "Suchbegriff": "055001",
+        "Bezeichnung": "DRE16 Mazak Integrex-300IV"
+    },
+    {
+        "Ressource": "055002",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12055002,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# DRE07 Mazak Integrex-200SY (verkauft)"
+    },
+    {
+        "Ressource": "055003",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12055003,
+        "Suchbegriff": "055003",
+        "Bezeichnung": "DRE17 Mazak Integrex-200IV"
+    },
+    {
+        "Ressource": "055004",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12055004,
+        "Suchbegriff": "055004",
+        "Bezeichnung": "DRE19 Mazak Integrex-I-200S"
+    },
+    {
+        "Ressource": "055005",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12055005,
+        "Suchbegriff": "055005",
+        "Bezeichnung": "DRE20 Mazak Integrex-I-200S"
+    },
+    {
+        "Ressource": "055006",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12055006,
+        "Suchbegriff": "055006",
+        "Bezeichnung": "DRE21 Mazak Integrex i-100S Universal 850 SmoothX"
+    },
+    {
+        "Ressource": "0560",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120560,
+        "Suchbegriff": "0560",
+        "Bezeichnung": "DRE Gildemeister"
+    },
+    {
+        "Ressource": "056001",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12056001,
+        "Suchbegriff": "056001",
+        "Bezeichnung": "DRE25 Gildemeister CLX 450 TC mit Roboter"
+    },
+    {
+        "Ressource": "0599",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 120599,
+        "Suchbegriff": "0599",
+        "Bezeichnung": "DRE Entgraten"
+    },
+    {
+        "Ressource": "059901",
+        "RessGruppe": "F-DRE1",
+        "Kostenstelle": 12059901,
+        "Suchbegriff": "059901",
+        "Bezeichnung": "DRE99 Entgraten"
+    },
+    {
+        "Ressource": "0601",
+        "RessGruppe": "F-SAE1",
+        "Kostenstelle": 120601,
+        "Suchbegriff": "0601",
+        "Bezeichnung": "SAE Band-, Kreiss�ge"
+    },
+    {
+        "Ressource": "060101",
+        "RessGruppe": "F-SAE1",
+        "Kostenstelle": 12060101,
+        "Suchbegriff": "060101",
+        "Bezeichnung": "SAE01 Kasto ssb A2"
+    },
+    {
+        "Ressource": "060102",
+        "RessGruppe": "F-SAE1",
+        "Kostenstelle": 12060102,
+        "Suchbegriff": "060102",
+        "Bezeichnung": "SAE03 Kasto TWIN-AE4"
+    },
+    {
+        "Ressource": "060103",
+        "RessGruppe": "F-SAE1",
+        "Kostenstelle": 12060103,
+        "Suchbegriff": "060103",
+        "Bezeichnung": "SAE02 Rhobi RKA-62U"
+    },
+    {
+        "Ressource": "060104",
+        "RessGruppe": "F-SAE1",
+        "Kostenstelle": 12060104,
+        "Suchbegriff": "060104",
+        "Bezeichnung": "SAE08 Eisele"
+    },
+    {
+        "Ressource": "0602",
+        "RessGruppe": "F-SAE1",
+        "Kostenstelle": 120602,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# Ueberfraesmaschine"
+    },
+    {
+        "Ressource": "0603",
+        "RessGruppe": "F-SAE1",
+        "Kostenstelle": 120603,
+        "Suchbegriff": "0603",
+        "Bezeichnung": "Trowalisierger�t"
+    },
+    {
+        "Ressource": "060301",
+        "RessGruppe": "F-SAE1",
+        "Kostenstelle": 12060301,
+        "Suchbegriff": "060301",
+        "Bezeichnung": "Trowalisierger�t Walther CD200"
+    },
+    {
+        "Ressource": "0650",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 120650,
+        "Suchbegriff": "0650",
+        "Bezeichnung": "PRO Drehen"
+    },
+    {
+        "Ressource": "065001",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12065001,
+        "Suchbegriff": "065001",
+        "Bezeichnung": "PRO09 Weiler L+Z"
+    },
+    {
+        "Ressource": "065002",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12065002,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# PRO10 Gildemeister NEF-320 (jetzt SYS14)"
+    },
+    {
+        "Ressource": "065003",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12065003,
+        "Suchbegriff": "065003",
+        "Bezeichnung": "PRO11 Gildemeister NEF-400"
+    },
+    {
+        "Ressource": "065004",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12065004,
+        "Suchbegriff": "065004",
+        "Bezeichnung": "PRO12 Deckel-Maho CLX 350 V3"
+    },
+    {
+        "Ressource": "065005",
+        "RessGruppe": "F-PRO",
+        "Kostenstelle": 12065005,
+        "Suchbegriff": "065005",
+        "Bezeichnung": "PRO13 Deckel-Maho CTX Beta 500"
+    },
+    {
+        "Ressource": "0750",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 120750,
+        "Suchbegriff": "0750",
+        "Bezeichnung": "SCH Flachschleifen"
+    },
+    {
+        "Ressource": "075001",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 12075001,
+        "Suchbegriff": "075001",
+        "Bezeichnung": "SCH02 Okamoto ACC64-CA1"
+    },
+    {
+        "Ressource": "075002",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 12075002,
+        "Suchbegriff": "075002",
+        "Bezeichnung": "SCH03 Okamoto ACC42-SA-iQ"
+    },
+    {
+        "Ressource": "075003",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 12075003,
+        "Suchbegriff": "075003",
+        "Bezeichnung": "SCH01 Z+B starline"
+    },
+    {
+        "Ressource": "075004",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 12075004,
+        "Suchbegriff": "075004",
+        "Bezeichnung": "SCH07 Okamoto ACC-64 CAiQ"
+    },
+    {
+        "Ressource": "075005",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 12075005,
+        "Suchbegriff": "075005",
+        "Bezeichnung": "SCH08 Elb Openline 6 ZRT XC-PRO"
+    },
+    {
+        "Ressource": "0751",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 120751,
+        "Suchbegriff": "0751",
+        "Bezeichnung": "SCH Rundschleifen"
+    },
+    {
+        "Ressource": "075101",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 12075101,
+        "Suchbegriff": "075101",
+        "Bezeichnung": "SCH04 Kellenberger Kel-Vista (Rund)"
+    },
+    {
+        "Ressource": "0752",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 120752,
+        "Suchbegriff": "0752",
+        "Bezeichnung": "SCH Profilschleifen"
+    },
+    {
+        "Ressource": "075201",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 12075201,
+        "Suchbegriff": "075201",
+        "Bezeichnung": "SCH05 Blohm-Jung Orbit 25 (Profil)"
+    },
+    {
+        "Ressource": "075202",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 12075202,
+        "Suchbegriff": "075202",
+        "Bezeichnung": "SCH06 Blohm-Jung Orbit 36 (Profil)"
+    },
+    {
+        "Ressource": "0797",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 120797,
+        "Suchbegriff": "0797",
+        "Bezeichnung": "SCH97 Vormontage"
+    },
+    {
+        "Ressource": "079701",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 120797,
+        "Suchbegriff": "079701",
+        "Bezeichnung": "SCH97 Vormontage"
+    },
+    {
+        "Ressource": "079801",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 12079801,
+        "Suchbegriff": "079801",
+        "Bezeichnung": "SCH98 Richten"
+    },
+    {
+        "Ressource": "0799",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 120799,
+        "Suchbegriff": "0799",
+        "Bezeichnung": "SCH Entgraten"
+    },
+    {
+        "Ressource": "079901",
+        "RessGruppe": "F-SCH1",
+        "Kostenstelle": 12079901,
+        "Suchbegriff": "079901",
+        "Bezeichnung": "SCH99 Entgraten"
+    },
+    {
+        "Ressource": "080001",
+        "RessGruppe": "F-ALLG",
+        "Kostenstelle": 120000,
+        "Suchbegriff": "080001",
+        "Bezeichnung": "Zoller Voreinstellger�t SAL"
+    },
+    {
+        "Ressource": "080002",
+        "RessGruppe": "F-ALLG",
+        "Kostenstelle": 120000,
+        "Suchbegriff": "080002",
+        "Bezeichnung": "Haimer Wuchtger�t SAL"
+    },
+    {
+        "Ressource": "080003",
+        "RessGruppe": "F-ALLG",
+        "Kostenstelle": 120000,
+        "Suchbegriff": "080003",
+        "Bezeichnung": "Haimer Schrumpfger�t SAL"
+    },
+    {
+        "Ressource": "0801",
+        "RessGruppe": "F-FRA1",
+        "Kostenstelle": 120801,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# Koepferer Verzahnungsmaschine"
+    },
+    {
+        "Ressource": "0900",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 120900,
+        "Suchbegriff": "0900",
+        "Bezeichnung": "BMB Betriebsmittelbau"
+    },
+    {
+        "Ressource": "090001",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 16090001,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# BMB01 Mikron WF3DCM/TNC150 (veschrottet/versuch)"
+    },
+    {
+        "Ressource": "090002",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 16090002,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# BMB02 Hermle U600T (jetzt PRO16)"
+    },
+    {
+        "Ressource": "090003",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 16090003,
+        "Suchbegriff": "090003",
+        "Bezeichnung": "BMB03 Emcomat 17D"
+    },
+    {
+        "Ressource": "090004",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 16090004,
+        "Suchbegriff": "090004",
+        "Bezeichnung": "BMB04 Deckel-Maho MH 600 W"
+    },
+    {
+        "Ressource": "090005",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 12065002,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# BMB05 Gildemeister NEF-320 (jetzt SYS10)"
+    },
+    {
+        "Ressource": "090006",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 16090006,
+        "Suchbegriff": "090006",
+        "Bezeichnung": "BMB06 Wabeco D2400E (Polieren/Bohren mit Vorrichtung)"
+    },
+    {
+        "Ressource": "090007",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 16090007,
+        "Suchbegriff": "090007",
+        "Bezeichnung": "BMB07 CMX 600 V"
+    },
+    {
+        "Ressource": "090101",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 12090101,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# BMB01 Mikron WF3DCM/TNC150 #ALT#"
+    },
+    {
+        "Ressource": "090102",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 12090102,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# BMB02 Hermle U600T #ALT#"
+    },
+    {
+        "Ressource": "090103",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 12090103,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# BMB03 Emcomat 17D #ALT#"
+    },
+    {
+        "Ressource": "0930",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 160930,
+        "Suchbegriff": "0930",
+        "Bezeichnung": "Montage Betriebsmittelbau Mechanisch"
+    },
+    {
+        "Ressource": "0940",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 160940,
+        "Suchbegriff": "0940",
+        "Bezeichnung": "Montage Betriebsmittelbau Elektrisch"
+    },
+    {
+        "Ressource": "0950",
+        "RessGruppe": "VERP",
+        "Kostenstelle": 110950,
+        "Suchbegriff": "0950",
+        "Bezeichnung": "Verpacken-1 (EG)"
+    },
+    {
+        "Ressource": "0951",
+        "RessGruppe": "VERP",
+        "Kostenstelle": 110951,
+        "Suchbegriff": "0951",
+        "Bezeichnung": "Verpacken-2 (OG)"
+    },
+    {
+        "Ressource": "0955",
+        "RessGruppe": "VERP",
+        "Kostenstelle": 110950,
+        "Suchbegriff": "0955",
+        "Bezeichnung": "Instapacker / Schaummaschine"
+    },
+    {
+        "Ressource": "0960",
+        "RessGruppe": "VERS",
+        "Kostenstelle": 110960,
+        "Suchbegriff": "0960",
+        "Bezeichnung": "Versand A-Teile-EG"
+    },
+    {
+        "Ressource": "0961",
+        "RessGruppe": "VERS",
+        "Kostenstelle": 110960,
+        "Suchbegriff": "0020",
+        "Bezeichnung": "Versand B-Teile"
+    },
+    {
+        "Ressource": "0962",
+        "RessGruppe": "VERS",
+        "Kostenstelle": 110960,
+        "Suchbegriff": "0962",
+        "Bezeichnung": "Versand A-Teile OG"
+    },
+    {
+        "Ressource": "0991",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 190901,
+        "Suchbegriff": "0991",
+        "Bezeichnung": "Lehrwerkstatt"
+    },
+    {
+        "Ressource": "099101",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090101,
+        "Suchbegriff": "099101",
+        "Bezeichnung": "LWS01 Deckel-Maho DMU 50"
+    },
+    {
+        "Ressource": "099102",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090102,
+        "Suchbegriff": "099102",
+        "Bezeichnung": "LWS02 CTX 310"
+    },
+    {
+        "Ressource": "099103",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090103,
+        "Suchbegriff": "099103",
+        "Bezeichnung": "LWS03 Emcomill C40"
+    },
+    {
+        "Ressource": "099104",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090104,
+        "Suchbegriff": "099104",
+        "Bezeichnung": "LWS04 FB4"
+    },
+    {
+        "Ressource": "099105",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090105,
+        "Suchbegriff": "099105",
+        "Bezeichnung": "LWS05 FB4"
+    },
+    {
+        "Ressource": "099106",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090106,
+        "Suchbegriff": "099106",
+        "Bezeichnung": "LWS06 Emcomat 17D"
+    },
+    {
+        "Ressource": "099107",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090107,
+        "Suchbegriff": "099107",
+        "Bezeichnung": "LWS07 Emco 17D"
+    },
+    {
+        "Ressource": "099108",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090108,
+        "Suchbegriff": "099108",
+        "Bezeichnung": "LWS08 Emco 17D"
+    },
+    {
+        "Ressource": "099109",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090109,
+        "Suchbegriff": "099109",
+        "Bezeichnung": "LWS09 Deckel-Maho 500W"
+    },
+    {
+        "Ressource": "099110",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090110,
+        "Suchbegriff": "099110",
+        "Bezeichnung": "LWS10 WF 400MC TNC320"
+    },
+    {
+        "Ressource": "099111",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090111,
+        "Suchbegriff": "099111",
+        "Bezeichnung": "LWS11 XPS-16 CNC"
+    },
+    {
+        "Ressource": "099112",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090112,
+        "Suchbegriff": "099112",
+        "Bezeichnung": "LWS12 St2/125 St�hleschleifen"
+    },
+    {
+        "Ressource": "099113",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090113,
+        "Suchbegriff": "099113",
+        "Bezeichnung": "LWS13 BT25STG Tischbohrmasch."
+    },
+    {
+        "Ressource": "099114",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090114,
+        "Suchbegriff": "099114",
+        "Bezeichnung": "LWS14 BT25STG Tischbohrmasch."
+    },
+    {
+        "Ressource": "099115",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090115,
+        "Suchbegriff": "099115",
+        "Bezeichnung": "LWS15 Kunzmann WF 400 CNC 840D"
+    },
+    {
+        "Ressource": "099116",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090116,
+        "Suchbegriff": "099116",
+        "Bezeichnung": "LWS16 manuelles Bearbeiten"
+    },
+    {
+        "Ressource": "099117",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090117,
+        "Suchbegriff": "099117",
+        "Bezeichnung": "LWS17 Kunzmann WF 410 MC"
+    },
+    {
+        "Ressource": "099118",
+        "RessGruppe": "LWS",
+        "Kostenstelle": 19090118,
+        "Suchbegriff": "099118",
+        "Bezeichnung": "LWS18 CMX 50 U"
+    },
+    {
+        "Ressource": "100",
+        "RessGruppe": "100",
+        "Kostenstelle": 100,
+        "Suchbegriff": "100",
+        "Bezeichnung": "Ressource f�r Nacharbeiten"
+    },
+    {
+        "Ressource": "1100",
+        "RessGruppe": "MON3-1",
+        "Kostenstelle": 111100,
+        "Suchbegriff": "1100",
+        "Bezeichnung": "Montage Linear- und Klemmelemente"
+    },
+    {
+        "Ressource": "110001",
+        "RessGruppe": "MON3-1",
+        "Kostenstelle": 111100,
+        "Suchbegriff": "110001",
+        "Bezeichnung": "Montage-Pr�fpl�tze automatisiert"
+    },
+    {
+        "Ressource": "110002",
+        "RessGruppe": "MON3-1",
+        "Kostenstelle": 111100,
+        "Suchbegriff": "110002",
+        "Bezeichnung": "Montage-Pr�fplatz automatisiert 2"
+    },
+    {
+        "Ressource": "110003",
+        "RessGruppe": "MON3-1",
+        "Kostenstelle": 111100,
+        "Suchbegriff": "110003",
+        "Bezeichnung": "Montage-Pr�fplatz automatisiert 3"
+    },
+    {
+        "Ressource": "110090",
+        "RessGruppe": "MON3-1",
+        "Kostenstelle": 111100,
+        "Suchbegriff": "110090",
+        "Bezeichnung": "Pr�fen Klemmelemente"
+    },
+    {
+        "Ressource": "1101",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Schwarz",
+        "Bezeichnung": "Montage HK Elemente"
+    },
+    {
+        "Ressource": "1101",
+        "RessGruppe": "MON3-1",
+        "Kostenstelle": 111100,
+        "Suchbegriff": "1101",
+        "Bezeichnung": "Montage HK Elemente"
+    },
+    {
+        "Ressource": "1102",
+        "RessGruppe": "MON3-1",
+        "Kostenstelle": 111100,
+        "Suchbegriff": "1102",
+        "Bezeichnung": "Montage LKP/LBP/S Elemente"
+    },
+    {
+        "Ressource": "1103",
+        "RessGruppe": "MON3-1",
+        "Kostenstelle": 111100,
+        "Suchbegriff": "1103",
+        "Bezeichnung": "Montage Mechanisch Elektroklemmungen"
+    },
+    {
+        "Ressource": "1110",
+        "RessGruppe": "MON3-2",
+        "Kostenstelle": 111110,
+        "Suchbegriff": "1110",
+        "Bezeichnung": "Montage Linear-und Bremselemente"
+    },
+    {
+        "Ressource": "111090",
+        "RessGruppe": "MON3-2",
+        "Kostenstelle": 111110,
+        "Suchbegriff": "111090",
+        "Bezeichnung": "Pr�fen Bremselemente"
+    },
+    {
+        "Ressource": "1111",
+        "RessGruppe": "MON3-2",
+        "Kostenstelle": 111110,
+        "Suchbegriff": "1111",
+        "Bezeichnung": "Montage RBPS"
+    },
+    {
+        "Ressource": "1120",
+        "RessGruppe": "MON3-2",
+        "Kostenstelle": 111110,
+        "Suchbegriff": "1120",
+        "Bezeichnung": "Vormontage  Linear-und Bremselemente"
+    },
+    {
+        "Ressource": "1121",
+        "RessGruppe": "MON3-2",
+        "Kostenstelle": 111110,
+        "Suchbegriff": "1121",
+        "Bezeichnung": "Vormontage ZBAC"
+    },
+    {
+        "Ressource": "1130",
+        "RessGruppe": "MON3-2",
+        "Kostenstelle": 111110,
+        "Suchbegriff": "1130",
+        "Bezeichnung": "Montage Hydraulik Elemente KWH/KBH/LBHS/DKHS"
+    },
+    {
+        "Ressource": "1190",
+        "RessGruppe": "MON3-1",
+        "Kostenstelle": 111100,
+        "Suchbegriff": "1190",
+        "Bezeichnung": "Lasern/Verpacken Klemm- und Bremselemente"
+    },
+    {
+        "Ressource": "1401",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121401,
+        "Suchbegriff": "1401",
+        "Bezeichnung": "KBS Brother"
+    },
+    {
+        "Ressource": "140101",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12140101,
+        "Suchbegriff": "140101",
+        "Bezeichnung": "KBS01 Brother TC-324"
+    },
+    {
+        "Ressource": "140102",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12140102,
+        "Suchbegriff": "140102",
+        "Bezeichnung": "KBS02 Brother TC-324N"
+    },
+    {
+        "Ressource": "1402",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121402,
+        "Suchbegriff": "1402",
+        "Bezeichnung": "KBS Deckel-Maho 60H RS4 (2)"
+    },
+    {
+        "Ressource": "140201",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12140201,
+        "Suchbegriff": "140201",
+        "Bezeichnung": "KBS04 Deckel-Maho 60H RS4 (2)"
+    },
+    {
+        "Ressource": "1403",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121403,
+        "Suchbegriff": "1403",
+        "Bezeichnung": "KBS Deckel-Maho 60H RS4 (3)"
+    },
+    {
+        "Ressource": "140301",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12140301,
+        "Suchbegriff": "140301",
+        "Bezeichnung": "KBS05 Deckel-Maho 60H RS4 (3)"
+    },
+    {
+        "Ressource": "1404",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121404,
+        "Suchbegriff": "1404",
+        "Bezeichnung": "#ALT# KBS Chiron FZ #ALT#"
+    },
+    {
+        "Ressource": "140401",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12140401,
+        "Suchbegriff": "140401",
+        "Bezeichnung": "#ALT# KBS03 Chiron FZ-18L #ALT#"
+    },
+    {
+        "Ressource": "140402",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12140402,
+        "Suchbegriff": "140402",
+        "Bezeichnung": "#ALT# KBS13 Chiron FZ-22L #ALT#"
+    },
+    {
+        "Ressource": "1405",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121405,
+        "Suchbegriff": "1405",
+        "Bezeichnung": "KBS Deckel-Maho 635V eco"
+    },
+    {
+        "Ressource": "140501",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12140501,
+        "Suchbegriff": "140501",
+        "Bezeichnung": "KBS07 Deckel-Maho 635V eco"
+    },
+    {
+        "Ressource": "140502",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12140502,
+        "Suchbegriff": "140502",
+        "Bezeichnung": "KBS25 Deckel Maho M1"
+    },
+    {
+        "Ressource": "1406",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121406,
+        "Suchbegriff": "1406",
+        "Bezeichnung": "KBS Matsuura MAM-500HF/PC-11"
+    },
+    {
+        "Ressource": "140601",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12140601,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# KBS10 Matsuura MAM-500HF/PC-11 (verkauft)"
+    },
+    {
+        "Ressource": "1407",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121407,
+        "Suchbegriff": "1407",
+        "Bezeichnung": "KBS Deckel-Maho 55H RS5"
+    },
+    {
+        "Ressource": "140701",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12140701,
+        "Suchbegriff": "140701",
+        "Bezeichnung": "KBS06 Deckel-Maho 55H RS5"
+    },
+    {
+        "Ressource": "1408",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121408,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# Maho MH 400 T"
+    },
+    {
+        "Ressource": "1409",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121409,
+        "Suchbegriff": "1409",
+        "Bezeichnung": "Fastems 1 (GLO)"
+    },
+    {
+        "Ressource": "140901",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12140901,
+        "Suchbegriff": "140901",
+        "Bezeichnung": "KBS12 Deckel-Maho DMC 60H-KGT-1"
+    },
+    {
+        "Ressource": "140902",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12140902,
+        "Suchbegriff": "140902",
+        "Bezeichnung": "KBS14 Deckel-Maho DMC 60H-KGT-2"
+    },
+    {
+        "Ressource": "140903",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12140903,
+        "Suchbegriff": "140903",
+        "Bezeichnung": "KBS15 Deckel-Maho DMC 60H-KGT-3"
+    },
+    {
+        "Ressource": "1410",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121410,
+        "Suchbegriff": "1410",
+        "Bezeichnung": "Fastems 3 (GLO)"
+    },
+    {
+        "Ressource": "141001",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12141001,
+        "Suchbegriff": "141001",
+        "Bezeichnung": "KBS18 Deckel-Maho DMC 60H-KGT-1"
+    },
+    {
+        "Ressource": "141002",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12141002,
+        "Suchbegriff": "141002",
+        "Bezeichnung": "KBS19 Deckel-Maho DMC 60H-KGT-2"
+    },
+    {
+        "Ressource": "141003",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12141003,
+        "Suchbegriff": "141002",
+        "Bezeichnung": "KBS23 Deckel-Maho DMC 60H-KGT-3"
+    },
+    {
+        "Ressource": "141004",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12141004,
+        "Suchbegriff": "141002",
+        "Bezeichnung": "KBS24 Deckel-Maho DMC 60H-KGT-4"
+    },
+    {
+        "Ressource": "1411",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121411,
+        "Suchbegriff": "1411",
+        "Bezeichnung": "KBS Brother TC-R450X1"
+    },
+    {
+        "Ressource": "141101",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12141101,
+        "Suchbegriff": "141101",
+        "Bezeichnung": "KBS20 Brother TC-R450X1"
+    },
+    {
+        "Ressource": "1412",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121412,
+        "Suchbegriff": "1412",
+        "Bezeichnung": "KBS Brother TC-R650X2"
+    },
+    {
+        "Ressource": "141201",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12141201,
+        "Suchbegriff": "141201",
+        "Bezeichnung": "KBS21 Brother R650X2"
+    },
+    {
+        "Ressource": "1430",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121430,
+        "Suchbegriff": "1430",
+        "Bezeichnung": "KBS Matsuura H.Plus-300/PC-6"
+    },
+    {
+        "Ressource": "143001",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12143001,
+        "Suchbegriff": "143001",
+        "Bezeichnung": "KBS09 Matsuura H.Plus-300/PC-6"
+    },
+    {
+        "Ressource": "1498",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121400,
+        "Suchbegriff": "1498",
+        "Bezeichnung": "KBS Fr�sen Entgraten"
+    },
+    {
+        "Ressource": "1499",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 121499,
+        "Suchbegriff": "1499",
+        "Bezeichnung": "KBS Entgraten"
+    },
+    {
+        "Ressource": "149901",
+        "RessGruppe": "F-FRA2",
+        "Kostenstelle": 12149901,
+        "Suchbegriff": "149901",
+        "Bezeichnung": "KBS99 Entgraten"
+    },
+    {
+        "Ressource": "1601",
+        "RessGruppe": "F-SAE2",
+        "Kostenstelle": 121601,
+        "Suchbegriff": "1601",
+        "Bezeichnung": "SAE Band-, Kreiss�ge"
+    },
+    {
+        "Ressource": "160101",
+        "RessGruppe": "F-SAE2",
+        "Kostenstelle": 12160101,
+        "Suchbegriff": "160101",
+        "Bezeichnung": "SAE05 Kasto TWIN-AE4"
+    },
+    {
+        "Ressource": "160102",
+        "RessGruppe": "F-SAE2",
+        "Kostenstelle": 12160102,
+        "Suchbegriff": "160102",
+        "Bezeichnung": "SAE06 Kasto Cut-E2"
+    },
+    {
+        "Ressource": "160103",
+        "RessGruppe": "F-SAE2",
+        "Kostenstelle": 12160103,
+        "Suchbegriff": "160103",
+        "Bezeichnung": "SAE07 Eisele VMS-300"
+    },
+    {
+        "Ressource": "160104",
+        "RessGruppe": "F-SAE2",
+        "Kostenstelle": 12160104,
+        "Suchbegriff": "160104",
+        "Bezeichnung": "SAE09 Kasto Win A 3.3"
+    },
+    {
+        "Ressource": "1602",
+        "RessGruppe": "F-SAE2",
+        "Kostenstelle": 121602,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# SAE �berfr�smaschine"
+    },
+    {
+        "Ressource": "160201",
+        "RessGruppe": "F-SAE2",
+        "Kostenstelle": 12160201,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# SAE09 �berfr�smaschine"
+    },
+    {
+        "Ressource": "1750",
+        "RessGruppe": "F-SCH2",
+        "Kostenstelle": 121750,
+        "Suchbegriff": "1750",
+        "Bezeichnung": "KBS Flachschleifen"
+    },
+    {
+        "Ressource": "175001",
+        "RessGruppe": "F-SCH2",
+        "Kostenstelle": 12175001,
+        "Suchbegriff": "175001",
+        "Bezeichnung": "KBS08 Elb Unicon A"
+    },
+    {
+        "Ressource": "175002",
+        "RessGruppe": "F-SCH2",
+        "Kostenstelle": 12175002,
+        "Suchbegriff": "175002",
+        "Bezeichnung": "KBS22 ELB Smartline N6 ZRT XC PRO"
+    },
+    {
+        "Ressource": "175003",
+        "RessGruppe": "F-SCH2",
+        "Kostenstelle": 12175003,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# KBS16 Z+B starline #ALT#"
+    },
+    {
+        "Ressource": "175004",
+        "RessGruppe": "F-SCH2",
+        "Kostenstelle": 12175004,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# KBS17 Elb Openline 6 ZRT XC-PRO #ALT#"
+    },
+    {
+        "Ressource": "1751",
+        "RessGruppe": "F-SCH2",
+        "Kostenstelle": 121751,
+        "Suchbegriff": "1751",
+        "Bezeichnung": "KBS Flachschleifen HHT2"
+    },
+    {
+        "Ressource": "175103",
+        "RessGruppe": "F-SCH2",
+        "Kostenstelle": 12175103,
+        "Suchbegriff": "175103",
+        "Bezeichnung": "#ALT# KBS16 Z+B starline => NEU 075003"
+    },
+    {
+        "Ressource": "175104",
+        "RessGruppe": "F-SCH2",
+        "Kostenstelle": 12175104,
+        "Suchbegriff": "175104",
+        "Bezeichnung": "KBS17 Elb Openline 6 ZRT XC-PRO"
+    },
+    {
+        "Ressource": "1799",
+        "RessGruppe": "F-SCH2",
+        "Kostenstelle": 121799,
+        "Suchbegriff": "1799",
+        "Bezeichnung": "KBS Entgraten Schleifen"
+    },
+    {
+        "Ressource": "179901",
+        "RessGruppe": "F-SCH2",
+        "Kostenstelle": 12179901,
+        "Suchbegriff": "179901",
+        "Bezeichnung": "KBS99 Entgraten Schleifen"
+    },
+    {
+        "Ressource": "180001",
+        "RessGruppe": "F-ALLG",
+        "Kostenstelle": 121000,
+        "Suchbegriff": "180001",
+        "Bezeichnung": "Zoller Voreinstellger�t GLO"
+    },
+    {
+        "Ressource": "180002",
+        "RessGruppe": "F-ALLG",
+        "Kostenstelle": 121000,
+        "Suchbegriff": "180002",
+        "Bezeichnung": "Haimer Wuchtger�t GLO"
+    },
+    {
+        "Ressource": "180003",
+        "RessGruppe": "F-ALLG",
+        "Kostenstelle": 121000,
+        "Suchbegriff": "180003",
+        "Bezeichnung": "Haimer Schrumpfger�t GLO"
+    },
+    {
+        "Ressource": "2100",
+        "RessGruppe": "MON2",
+        "Kostenstelle": 112100,
+        "Suchbegriff": "2100",
+        "Bezeichnung": "Montage Systeme"
+    },
+    {
+        "Ressource": "2101",
+        "RessGruppe": "MON2",
+        "Kostenstelle": 112100,
+        "Suchbegriff": "2101",
+        "Bezeichnung": "Vormontage Systeme"
+    },
+    {
+        "Ressource": "2102",
+        "RessGruppe": "MON2",
+        "Kostenstelle": 112100,
+        "Suchbegriff": "2102",
+        "Bezeichnung": "Lasern Systemteile"
+    },
+    {
+        "Ressource": "2110",
+        "RessGruppe": "MON2",
+        "Kostenstelle": 112110,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# Montage Automatenbau"
+    },
+    {
+        "Ressource": "2120",
+        "RessGruppe": "MON2",
+        "Kostenstelle": 112100,
+        "Suchbegriff": "2120",
+        "Bezeichnung": "Montage HHT SYS Elektro"
+    },
+    {
+        "Ressource": "2301",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 122301,
+        "Suchbegriff": "",
+        "Bezeichnung": "SYS Universalfr�smaschine Stahl"
+    },
+    {
+        "Ressource": "2301",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 122301,
+        "Suchbegriff": "2301",
+        "Bezeichnung": "SYS Universalfr�smaschine Stahl"
+    },
+    {
+        "Ressource": "230101",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12230101,
+        "Suchbegriff": "230101",
+        "Bezeichnung": "#ALT# SYS01 Hermle U630T"
+    },
+    {
+        "Ressource": "230102",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12230102,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# SYS02 Deckel-Maho DMC 103V"
+    },
+    {
+        "Ressource": "230103",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12230103,
+        "Suchbegriff": "230103",
+        "Bezeichnung": "SYS05 Hermle U630T"
+    },
+    {
+        "Ressource": "230104",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12230104,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# SYS06 Deckel-Maho DMC 64V linear"
+    },
+    {
+        "Ressource": "230105",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12230105,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# SYS07 Hermle C600U"
+    },
+    {
+        "Ressource": "230106",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12230106,
+        "Suchbegriff": "230106",
+        "Bezeichnung": "SYS08 Deckel-Maho DMC 635V"
+    },
+    {
+        "Ressource": "230107",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12230107,
+        "Suchbegriff": "ALT",
+        "Bezeichnung": "#ALT# SYS13 Deckel-Maho CMX 1100V"
+    },
+    {
+        "Ressource": "230108",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12230108,
+        "Suchbegriff": "230108",
+        "Bezeichnung": "SYS15 Deckel-Maho CMX 1100 V"
+    },
+    {
+        "Ressource": "2302",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 122302,
+        "Suchbegriff": "2302",
+        "Bezeichnung": "SYS Deckel-Maho DMU 75 monoBlock"
+    },
+    {
+        "Ressource": "230201",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12230201,
+        "Suchbegriff": "230201",
+        "Bezeichnung": "SYS11 Deckel-Maho DMU 75 monoBlock"
+    },
+    {
+        "Ressource": "2303",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 122303,
+        "Suchbegriff": "2303",
+        "Bezeichnung": "SYS Universalfr�smaschine Alu"
+    },
+    {
+        "Ressource": "230301",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12230301,
+        "Suchbegriff": "230301",
+        "Bezeichnung": "SYS06 Deckel-Maho DMC 64V linear"
+    },
+    {
+        "Ressource": "230302",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12230302,
+        "Suchbegriff": "230302",
+        "Bezeichnung": "SYS07 Hermle C600U"
+    },
+    {
+        "Ressource": "230303",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12230303,
+        "Suchbegriff": "230303",
+        "Bezeichnung": "SYS13 Deckel-Maho CMX 1100V"
+    },
+    {
+        "Ressource": "2304",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 122304,
+        "Suchbegriff": "2304",
+        "Bezeichnung": "SYS Universalfr�smaschine"
+    },
+    {
+        "Ressource": "230401",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12230401,
+        "Suchbegriff": "230401",
+        "Bezeichnung": "SYS01 Hermle U630T"
+    },
+    {
+        "Ressource": "2399",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 122399,
+        "Suchbegriff": "2399",
+        "Bezeichnung": "SYS Entgraten"
+    },
+    {
+        "Ressource": "239901",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12239901,
+        "Suchbegriff": "239901",
+        "Bezeichnung": "SYS99 Entgraten"
+    },
+    {
+        "Ressource": "2650",
+        "RessGruppe": "F-KOM1",
+        "Kostenstelle": 122650,
+        "Suchbegriff": "2650",
+        "Bezeichnung": "SYS Drehen"
+    },
+    {
+        "Ressource": "265001",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12265001,
+        "Suchbegriff": "265001",
+        "Bezeichnung": "SYS09 Gildemeister NEF-320"
+    },
+    {
+        "Ressource": "265002",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12265002,
+        "Suchbegriff": "265002",
+        "Bezeichnung": "SYS10 Gildemeister NEF-320"
+    },
+    {
+        "Ressource": "265003",
+        "RessGruppe": "F-KOM1",
+        "Kostenstelle": 12265003,
+        "Suchbegriff": "265003",
+        "Bezeichnung": "SYS12 Deckel-Maho ecoTurn 310"
+    },
+    {
+        "Ressource": "265004",
+        "RessGruppe": "F-KOMP",
+        "Kostenstelle": 12265004,
+        "Suchbegriff": "265004",
+        "Bezeichnung": "SYS14 Gildemeister NEF-320"
+    },
+    {
+        "Ressource": "280001",
+        "RessGruppe": "F-ALLG",
+        "Kostenstelle": 122000,
+        "Suchbegriff": "280001",
+        "Bezeichnung": "Venturion Voreinstellger�t GLO"
+    },
+    {
+        "Ressource": "3100",
+        "RessGruppe": "MO-HHT",
+        "Kostenstelle": 113100,
+        "Suchbegriff": "3100",
+        "Bezeichnung": "Montage HHT"
+    },
+    {
+        "Ressource": "3409",
+        "RessGruppe": "F-FRA3",
+        "Kostenstelle": 123409,
+        "Suchbegriff": "3409",
+        "Bezeichnung": "HHT Fastems 2 (GLO H02)"
+    },
+    {
+        "Ressource": "340901",
+        "RessGruppe": "F-FRA3",
+        "Kostenstelle": 12340901,
+        "Suchbegriff": "340901",
+        "Bezeichnung": "HHT01 Deckel-Maho DMC 60H-KGT-1"
+    },
+    {
+        "Ressource": "340902",
+        "RessGruppe": "F-FRA3",
+        "Kostenstelle": 12340902,
+        "Suchbegriff": "340902",
+        "Bezeichnung": "HHT02 Deckel-Maho DMC 60H-KGT-2"
+    },
+    {
+        "Ressource": "340903",
+        "RessGruppe": "F-FRA3",
+        "Kostenstelle": 12340903,
+        "Suchbegriff": "340903",
+        "Bezeichnung": "HHT03 Deckel-Maho DMC 60H-KGT-3"
+    },
+    {
+        "Ressource": "3499",
+        "RessGruppe": "F-FRA3",
+        "Kostenstelle": 123499,
+        "Suchbegriff": "3499",
+        "Bezeichnung": "HHT99 Fastems Entgraten"
+    },
+    {
+        "Ressource": "349901",
+        "RessGruppe": "F-FRA3",
+        "Kostenstelle": 12349901,
+        "Suchbegriff": "349901",
+        "Bezeichnung": "HHT99 Fastems Entgraten"
+    },
+    {
+        "Ressource": "3799",
+        "RessGruppe": "F-SCH3",
+        "Kostenstelle": 123799,
+        "Suchbegriff": "3799",
+        "Bezeichnung": "HHT99 Schleifen Entgraten"
+    },
+    {
+        "Ressource": "379901",
+        "RessGruppe": "F-SCH3",
+        "Kostenstelle": 12379901,
+        "Suchbegriff": "379901",
+        "Bezeichnung": "HHT99 Schleifen Entgraten"
+    },
+    {
+        "Ressource": "7900",
+        "RessGruppe": "MONV01",
+        "Kostenstelle": 170900,
+        "Suchbegriff": "7900",
+        "Bezeichnung": "Versuch EG"
+    },
+    {
+        "Ressource": "7910",
+        "RessGruppe": "MONV01",
+        "Kostenstelle": 170900,
+        "Suchbegriff": "7910",
+        "Bezeichnung": "Versuch OG"
+    },
+    {
+        "Ressource": "8888",
+        "RessGruppe": "F-PR�F",
+        "Kostenstelle": 128888,
+        "Suchbegriff": "8888",
+        "Bezeichnung": "Pr�fen ALLGEMEIN"
+    },
+    {
+        "Ressource": "9302",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 190302,
+        "Suchbegriff": "9302",
+        "Bezeichnung": "QS Messtechnik (Salmenkopf)"
+    },
+    {
+        "Ressource": "9303",
+        "RessGruppe": "MON2",
+        "Kostenstelle": 190302,
+        "Suchbegriff": "9303",
+        "Bezeichnung": "QS Messtechnik (Glockenloch)"
+    },
+    {
+        "Ressource": "9310",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 190310,
+        "Suchbegriff": "9310",
+        "Bezeichnung": "QS Endkontrolle EG"
+    },
+    {
+        "Ressource": "9311",
+        "RessGruppe": "MON1",
+        "Kostenstelle": 190311,
+        "Suchbegriff": "9311",
+        "Bezeichnung": "QS Endkontrolle OG"
+    },
+    {
+        "Ressource": "1008",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Rummel",
+        "Bezeichnung": "Rummel Sebastian"
+    },
+    {
+        "Ressource": "1057",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Faulhaber",
+        "Bezeichnung": "Faulhaber Thomas"
+    },
+    {
+        "Ressource": "1099",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Kimmig",
+        "Bezeichnung": "Kimmig Thorsten"
+    },
+    {
+        "Ressource": "1101",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Schwarz",
+        "Bezeichnung": "Schwarz Markus"
+    },
+    {
+        "Ressource": "1101",
+        "RessGruppe": "MON3-1",
+        "Kostenstelle": 111100,
+        "Suchbegriff": "1101",
+        "Bezeichnung": "Schwarz Markus"
+    },
+    {
+        "Ressource": "1114",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Fritsch",
+        "Bezeichnung": "Fritsch Maik"
+    },
+    {
+        "Ressource": "1125",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Kaltenbach",
+        "Bezeichnung": "Kaltenbach Markus"
+    },
+    {
+        "Ressource": "1235",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Zimpfer",
+        "Bezeichnung": "Zimpfer Simon"
+    },
+    {
+        "Ressource": "1249",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Espig",
+        "Bezeichnung": "Espig Carsten"
+    },
+    {
+        "Ressource": "1414",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Treffinger",
+        "Bezeichnung": "Treffinger Frank"
+    },
+    {
+        "Ressource": "1484",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Enderle",
+        "Bezeichnung": "Enderle Jannik"
+    },
+    {
+        "Ressource": "1627",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Bigott",
+        "Bezeichnung": "Bigott Felix"
+    },
+    {
+        "Ressource": "1650",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Stumpf",
+        "Bezeichnung": "Stumpf Sylvain"
+    },
+    {
+        "Ressource": "1671",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Sch�ler",
+        "Bezeichnung": "Sch�ler Dominic"
+    },
+    {
+        "Ressource": "1728",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Wehrmann",
+        "Bezeichnung": "Wehrmann Christian"
+    },
+    {
+        "Ressource": "1780",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Sackmann",
+        "Bezeichnung": "Sackmann Sebastian"
+    },
+    {
+        "Ressource": "1884",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Bock",
+        "Bezeichnung": "Bock St�phane"
+    },
+    {
+        "Ressource": "1957",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Soyez",
+        "Bezeichnung": "Marcel Soyez"
+    },
+    {
+        "Ressource": "1961",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Volz",
+        "Bezeichnung": "Volz Christian"
+    },
+    {
+        "Ressource": "1965",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Moog",
+        "Bezeichnung": "Moog S�bastien"
+    },
+    {
+        "Ressource": "1968",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Hau�",
+        "Bezeichnung": "Hau� Julian"
+    },
+    {
+        "Ressource": "1982",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Schneider",
+        "Bezeichnung": "Schneider Josef"
+    },
+    {
+        "Ressource": "1994",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Nock",
+        "Bezeichnung": "Nock Samuel"
+    },
+    {
+        "Ressource": "258",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Lacker",
+        "Bezeichnung": "Lacker Sven"
+    },
+    {
+        "Ressource": "373",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Zeh",
+        "Bezeichnung": "Zeh Markus"
+    },
+    {
+        "Ressource": "550",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Frietsch",
+        "Bezeichnung": "Frietsch David"
+    },
+    {
+        "Ressource": "582",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Rohr",
+        "Bezeichnung": "Rohr Thomas"
+    },
+    {
+        "Ressource": "693",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Burst",
+        "Bezeichnung": "Burst Nils"
+    },
+    {
+        "Ressource": "887",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Staiger",
+        "Bezeichnung": "Staiger Michael"
+    },
+    {
+        "Ressource": "DIENSTLEISTUNG",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "",
+        "Bezeichnung": "Serviceeinsatz"
+    },
+    {
+        "Ressource": "KONSTRUKTION",
+        "RessGruppe": "KON",
+        "Kostenstelle": 0,
+        "Suchbegriff": "KON",
+        "Bezeichnung": "Konstruktion"
+    },
+    {
+        "Ressource": "SERVICE_GLOCKENLOCH",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "GLO",
+        "Bezeichnung": "Glockenloch"
+    },
+    {
+        "Ressource": "SERVICE_SALMENKOPF",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "SAL",
+        "Bezeichnung": "Salmenkopf"
+    },
+    {
+        "Ressource": "7921660",
+        "RessGruppe": "SERV",
+        "Kostenstelle": 0,
+        "Suchbegriff": "Streithof",
+        "Bezeichnung": "Mitarbeiter 1 Streithof"
+    }
+]
